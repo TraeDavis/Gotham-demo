@@ -156,4 +156,36 @@ p i {
 	color:#eac545
 
 }
-/* added in github */
+footer{
+	background: #f6c61c;
+	height: 65px;
+}
+.page-footer{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+footer p{
+	font-size: 10px;
+	color: #a78613;
+}
+footer a{
+	text-decoration: none;
+	padding: 0 20px;
+	color: black;
+
+}
+.icon-container i{
+	color: #f6c61c;
+	font-size: 12px;
+	padding: 20px;
+	
+}
+.icons{
+	display: flex;
+}
+.icon-container{
+	background: white;
+	border-radius: 50%;
+	margin: 0 7px;
+}
